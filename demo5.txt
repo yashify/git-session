@@ -1,4 +1,3 @@
 this is demo 5 file
 This is new line in second repo
-
-This is another new line
+This is another new line in second repo
